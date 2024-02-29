@@ -18,12 +18,12 @@ The board worked pretty well, but sometimes, the keystrokes beginned faster and 
 
 
 ## KeystrokeInjectionTool_V2.0
-This board was designed like a normal USB Memory Stick. It has 2 dip switches and a push button for user input, the ATTINY85 or ATTINY45 microcontroller, and an 256Kb I2C EEPROM for additional 256Kb of memmory. The stick case will have a sliding mechanism to have a steady grip instead of using holes. 
+This board was designed like a normal USB Memory Stick. It has 2 dip switches and a push button for user input, the ATTINY85 or ATTINY45 microcontroller, and an 256Kb I2C EEPROM for additional 256Kb of memmory. The stick case will have a sliding mechanism to have a steady grip instead of using holes. Now I have to wait the board to arrive and start working on it\`s case.
 
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p5.png">
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p4.png">
 
-### Schematic:
+## Schematic:
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p3.png">
 
 ## Links:
