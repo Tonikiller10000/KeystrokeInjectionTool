@@ -1,8 +1,5 @@
 # KeystrokeInjectionTool
 
-## Description:
-This is a keystroke Injection tool made with ATtiny85/ATtiny45 microcontroller witch has the USB protocol integrated.
-
 ## KeystrokeInjectionTool_V1.0
 The first board was made at home in an arduino shield form put over an arduino uno. The projection was printed on the [heat tstransfer paper](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f.jpg) at the printer, after witch I put the [print on](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/ff.jpg), by pressing the copper on a smd soldering plate. After the print is on the copper, the board was put in the feric clorhide and then cleaned. Then I drilled the holes of the [board](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/fff.jpg), and [soldered](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/c4.jpg) the smd and tht parts in this order. After [cleaning](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/ffff.jpg) the board, it was [ready](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/c22.jpg). 
 
