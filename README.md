@@ -26,6 +26,9 @@ This board was designed like a normal USB Memory Stick. It has 2 dip switches an
 ## Schematic:
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p3.png">
 
+## Mentions:
+- If I was to use an SD card instead of an I2C EEPROM, I wold\`ve needed 4 pins witch means I couldn\`t use the 4 switchees for code execution select. Maybe If someone want\`s to try with an aditional small IC to convert the SPI from the SD card to the I2C for the microcontroller. It would be in size like the current EEPROM and on the back of the device would be the SD socket.
+
 ## Links:
 - recomended video: https://youtu.be/XwEZvaGyKDE?si=0O5bhv-sC-1KsNow
 - the basic schematic diagram: https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p1.jpg
