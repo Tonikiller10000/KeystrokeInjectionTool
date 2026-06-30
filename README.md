@@ -15,11 +15,8 @@ The board worked pretty well, but sometimes, the keystrokes beginned faster and 
  </table>
 
 
-
-
 ## KeystrokeInjectionTool_V2.0
 This board was designed like a normal USB Memory Stick. It has 2 dip switches and a [push button](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS1.jpg) for user input, the ATTINY85 or ATTINY45 microcontroller, and an 256Kb I2C EEPROM for additional 256Kb of memmory. The stick case will have a sliding mechanism to have a steady grip instead of using holes. Now I have to wait the board to arrive and start working on it\`s case.
-
 
 <table>
   <tr>
@@ -29,12 +26,12 @@ This board was designed like a normal USB Memory Stick. It has 2 dip switches an
   </tr>
 </table>
 
-
 ## Schematic:
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p3.png">
 
 ## Mentions:
 - If I was to use an SD card instead of an I2C EEPROM, I wold\`ve needed 4 pins witch means I couldn\`t use the 4 switchees for code execution select. Maybe If someone want\`s to try with an aditional small IC to convert the SPI from the SD card to the I2C for the microcontroller. It would be in size like the current EEPROM and on the back of the device would be the SD socket.
+- an upgrade would be using an stm32 as a keystroke injection tool.The stm32 is capable of USB, SD card, buttons and leds at the same time and can do more advanced stuff hardware and software (you can also add a small i2c oled screen 32x128 to display witch code to execute. but that would require a small battery like a earbuud one or a coin one, or editing options after connection. with stm32 the keystoke injection tool can apear as a drive too and you can do something to copy the data on it.)
 
 ## Links:
 - recomended video: https://youtu.be/XwEZvaGyKDE?si=0O5bhv-sC-1KsNow
