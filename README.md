@@ -22,7 +22,14 @@ This board was designed like a normal USB Memory Stick. It has 2 dip switches an
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS1.jpg">
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS2.jpg">
 
-<img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p5.png">
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p5.png"></td>
+    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p4.png"></td>
+  </tr>
+ </table>
+
+
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p4.png">
 
 ## Schematic:
