@@ -1,11 +1,18 @@
 # KeystrokeInjectionTool
 
 ## KeystrokeInjectionTool_V1.0
-The first board was made at home in an arduino shield form put over an arduino uno. The projection was printed on the [heat tstransfer paper](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f.jpg) at the printer, after witch I put the [print on](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/ff.jpg), by pressing the copper on a smd soldering plate. After the print is on the copper, the board was put in the feric clorhide and then cleaned. Then I drilled the holes of the [board](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/fff.jpg), and [soldered](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/c4.jpg) the smd and tht parts in this order. After [cleaning](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/ffff.jpg) the board, it was [ready](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/c22.jpg). 
+The first board was made at home in an arduino shield form put over an arduino uno. 
+The projection was printed on the [heat tstransfer paper](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f.jpg) at the printer, after witch I put the [print on](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/ff.jpg), by pressing the copper on a smd soldering plate. 
+After the print is on the copper, the board was put in the feric clorhide and then cleaned. Then I drilled the holes of the [board](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/fff.jpg), and [soldered](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/c4.jpg) the smd and tht parts in this order. 
+After [cleaning](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/ffff.jpg), the board was [ready](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/c22.jpg) for soldering. 
 
 ## The KeystrokeInjectionTool_V1.0 in action
 This board was made from an arduino uno with this [homemade shield](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/fffff.jpg) with buttons to activate the keystrokes comands.
-The board worked pretty well, but sometimes, the keystrokes beginned faster and the program didn\`t run well. Here are 2 videos with the board being tested at home as a keyboard with keys and shortcuts [Vid1](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f1.mp4), [Vid2](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f2.mp4).
+The board worked pretty well, but sometimes, the keystrokes beginned faster and the program didn\`t run well. 
+Here are 2 videos with the board being tested at home as a keyboard with keys and shortcuts 
+[Vid1](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f1.mp4), 
+[Vid2](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V1.0/KeystrokeInjectionTool_Pictures/f2.mp4).
+
 
 <table>
   <tr>
@@ -16,13 +23,16 @@ The board worked pretty well, but sometimes, the keystrokes beginned faster and 
 
 
 ## KeystrokeInjectionTool_V2.0
-This board was designed like a normal USB Memory Stick. It has 2 dip switches and a [push button](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS1.jpg) for user input, the ATTINY85 or ATTINY45 microcontroller, and an 256Kb I2C EEPROM for additional 256Kb of memmory. The stick case will have a sliding mechanism to have a steady grip instead of using holes. Now I have to wait the board to arrive and start working on it\`s case.
+This board was designed like a normal USB Memory Stick. It has 2 dip switches and a [push button](https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS1.jpg) 
+for user input, the ATTINY85 or ATTINY45 microcontroller, and an 256Kb I2C EEPROM for additional 256Kb of memmory. 
+The stick case will have a sliding mechanism to have a steady grip instead of using holes. 
+Now I have to wait the board to arrive and start working on it\`s case.
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p5.png"  height="300"></td>
-    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p4.png"  height="300"></td>
-    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS2.jpg" ></td>
+    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p5.png"  height="300"  width="300"></td>
+    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p4.png"  height="300"  width="300"></td>
+    <td><img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/KS2.jpg" width="800"></td>
   </tr>
 </table>
 
@@ -30,8 +40,15 @@ This board was designed like a normal USB Memory Stick. It has 2 dip switches an
 <img src="https://github.com/Tonikiller10000/KeystrokeInjectionTool/blob/main/KeystrokeInjectionTool_V2.0/KeystrokeInjTool_Pictures/p3.png">
 
 ## Mentions:
-- If I was to use an SD card instead of an I2C EEPROM, I wold\`ve needed 4 pins witch means I couldn\`t use the 4 switchees for code execution select. Maybe If someone want\`s to try with an aditional small IC to convert the SPI from the SD card to the I2C for the microcontroller. It would be in size like the current EEPROM and on the back of the device would be the SD socket.
-- an upgrade would be using an stm32 as a keystroke injection tool.The stm32 is capable of USB, SD card, buttons and leds at the same time and can do more advanced stuff hardware and software (you can also add a small i2c oled screen 32x128 to display witch code to execute. but that would require a small battery like a earbuud one or a coin one, or editing options after connection. with stm32 the keystoke injection tool can apear as a drive too and you can do something to copy the data on it.)
+- If I was to use an SD card instead of an I2C EEPROM, I wold\`ve needed 4 pins witch means I couldn\`t use the 4 switchees for code execution select. 
+Maybe If someone want\`s to try with an aditional small IC to convert the SPI from the SD card to the I2C for the microcontroller. 
+It would be in size like the current EEPROM and on the back of the device would be the SD socket.
+
+- an upgrade would be using an stm32 as a keystroke injection tool.
+The stm32 is capable of USB, SD card, buttons and leds at the same time and can do more advanced stuff hardware and software 
+(you can also add a small i2c oled screen 32x128 to display witch code to execute. 
+but that would require a small battery like a earbuud one or a coin one, or editing options after connection. 
+with stm32 the keystoke injection tool can apear as a drive too and you can do something to copy the data on it.)
 
 ## Links:
 - recomended video: https://youtu.be/XwEZvaGyKDE?si=0O5bhv-sC-1KsNow
